@@ -2547,7 +2547,7 @@ sst-linux-x86@3.4.21:
   resolved "https://registry.yarnpkg.com/sst-linux-x86/-/sst-linux-x86-3.4.21.tgz#e94fd05c31b6e28b8fca359c0d5e2fa80c7be59f"
   integrity sha512-Pxz+tqu5AOEBdxLRXB6Um0sWucpclltnUv9cPaH7qJS1SlFM/yIhSGI9stz6p249sOJwt5LN6z3FddijH85LPw==
 
-sst@^3.4.5:
+sst@3.4.21:
   version "3.4.21"
   resolved "https://registry.yarnpkg.com/sst/-/sst-3.4.21.tgz#8cf3eac6c665cc6c3d0358b8d2cda0b126cf9f06"
   integrity sha512-tCdJFLHtb3w1Zd9Q0II8j2vrA/nd+3X1dWohabrCGq/02nHZnjjgHYAnhGFQ/ffgFJaG4vsFLdsz0RqhFo41UA==
