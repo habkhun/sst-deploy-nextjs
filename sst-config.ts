@@ -1,5 +1,5 @@
 /// <reference path="./.sst/platform/config.d.ts" />
-
+//
 export default $config({
   app(input) {
     return {
@@ -10,6 +10,6 @@ export default $config({
     };
   },
   async run() {
-    new sst.aws.Nextjs("testApp")
+    new sst.aws.Nextjs("testApp");
   },
 });
